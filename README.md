@@ -9,7 +9,7 @@ All the codes are based on java.
 
 I am working on Andoird Studio 3.6.3 with Minimum SDK: API 21: Android 5.0 (Lollipop).
 
-Note: Please insert your own public key in MainActivity file.
+**Note: Please insert your own public key in MainActivity file.**
 
 ## Installation
 
