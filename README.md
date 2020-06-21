@@ -4,6 +4,11 @@ This apps shows the currect market price of BITCOIN in multiple currencies as ch
 
 This apps works on [Bitcoinaverage](https://apiv2.bitcoinaverage.com/) API and [Android Asynchronous Http Client](https://loopj.com/android-async-http/)
 
+Screenshots:
+
+<img src="https://github.com/shvmsaini/ProjectImages/blob/master/Screenshot_1592724143.png" width="30%"></img>
+<img src="https://raw.githubusercontent.com/shvmsaini/ProjectImages/master/Screenshot_1592724148.png?token=AHD4PEJQE4WG6RYWUHKNNB267BC5C" width="30%"></img>
+
 
 All the codes are based on java.
 
